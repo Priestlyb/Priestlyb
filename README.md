@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Priestly Patrick Bassey.
-- 👀 I’m interested in Basketball gaming and Coding.
+- 👀 I’m interested in Basketball Gaming and Coding.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on Web Applications.
 - 📫 How to reach me [@Gemini_loner](https://www.instagram.com/gemini_loner/) on instagram.
