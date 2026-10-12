@@ -31,13 +31,13 @@ I also work with backend technologies, connecting interfaces to APIs and databas
 
 ## What I'm Building
 
-### Brika 🏗️
+### Brika 
 A construction technology platform exploring AI-assisted architectural plan processing, 3D visualization, and BIM-oriented workflows.
 
-### LocalLift 🚀
+### LocalLift 
 An AI-powered sales content platform helping businesses create, manage, and grow their marketing content.
 
-### Ovena 🍽️
+### Ovena 
 A food-ordering ecosystem connecting customers and restaurants through mobile experiences, payments, delivery, and notifications.
 
 ---
