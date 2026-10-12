@@ -1,12 +1,12 @@
 # Hey, I'm Priestly 👋
 
-### Frontend Developer · Full-Stack Developer · UI/UX Enthusiast · Product Builder
+### Frontend Developer · UI/UX Enthusiast · Product Builder
 
-I'm passionate about building **beautiful, intuitive, and useful digital products**. My primary focus is frontend development — crafting engaging user interfaces and smooth experiences with React, React Native, TypeScript, and modern web technologies.
+I build **engaging interfaces and thoughtful digital experiences** that turn ideas into useful web and mobile products.
 
-Beyond the frontend, I'm growing my full-stack skills, exploring UI/UX design, and turning ideas into functional products. I enjoy understanding problems, experimenting with solutions, and learning through building real-world projects.
+My focus is frontend development, using **React, React Native, TypeScript, and modern UI tools** to create responsive interfaces, intuitive interactions, and seamless user experiences. With an interest in UI/UX design and product thinking, I care about not just how products look, but how they work and the problems they solve.
 
-I believe great products bring together thoughtful design, great user experiences, and technology that solves meaningful problems.
+I also work with backend technologies, connecting interfaces to APIs and databases while continuing to strengthen my full-stack development skills.
 
 ---
 
@@ -32,23 +32,23 @@ I believe great products bring together thoughtful design, great user experience
 ## What I'm Building
 
 ### Brika 🏗️
-Exploring the intersection of technology and construction through AI-assisted architectural plan processing, 3D visualization, and BIM-oriented workflows.
+A construction technology platform exploring AI-assisted architectural plan processing, 3D visualization, and BIM-oriented workflows.
 
 ### LocalLift 🚀
-An AI-powered sales content platform designed to help businesses create, manage, and grow their marketing content.
+An AI-powered sales content platform helping businesses create, manage, and grow their marketing content.
 
 ### Ovena 🍽️
 A food-ordering ecosystem connecting customers and restaurants through mobile experiences, payments, delivery, and notifications.
 
 ---
 
-## What I'm Exploring
+## What I Focus On
 
-- 🎨 **UI/UX Design** — Designing intuitive interfaces and improving user experiences.
-- 💻 **Frontend Engineering** — Building responsive, accessible, and engaging web applications.
-- 📱 **Mobile Development** — Creating cross-platform experiences with React Native and Expo.
-- ⚙️ **Full-Stack Development** — Connecting interfaces to APIs, databases, and backend services.
-- 🚀 **Product Building** — Turning ideas into practical solutions and learning through experimentation.
+- **Frontend Development** — Building responsive interfaces, reusable components, and engaging web experiences.
+- **UI/UX Design** — Creating intuitive layouts, thoughtful user journeys, and visually consistent interfaces.
+- **Mobile Development** — Developing cross-platform applications with React Native and Expo.
+- **Product Building** — Turning ideas into functional products through design, development, and iteration.
+- **Backend Fundamentals** — Working with APIs, databases, and server-side technologies to support complete product experiences.
 
 ---
 
@@ -66,5 +66,5 @@ A food-ordering ecosystem connecting customers and restaurants through mobile ex
 ---
 
 <p align="center">
-  <i>Designing with intention. Building with curiosity. Learning by creating.</i>
+  <i>Thoughtful interfaces. Meaningful experiences. Useful products.</i>
 </p>
