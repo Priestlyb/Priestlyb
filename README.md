@@ -1,4 +1,4 @@
-# Hey, I'm Priestly 👋
+# Hey, I'm Priestly 
 
 ### Frontend Developer · UI/UX Enthusiast · Product Builder
 
